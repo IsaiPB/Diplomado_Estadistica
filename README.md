@@ -18,4 +18,4 @@ Ejercicios de probabilidad Z, prueba de hipótesis de prueba Z y t de Student pa
 Ejercicios de IC, prueba Z y prueba t Student para una muestra realizados en Statgraphics y en Probability Distribution: <a href="https://drive.google.com/file/d/1R8BVGCmAmXfcnibdbiTeXovLg9w70yLy/view?usp=drive_link">Tarea 3</a>.
 </li>
 
-## Diseño de experimentos
+## Diseño de experimentos (DOE)
