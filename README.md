@@ -7,7 +7,7 @@ Utilicé softwares como <strong>SPSS, Minitab, Statgraphics y R Commander</stron
 
 ## Estadística inferencial básica
 <li>
-  Algunos ejercicios de probabilidad Z, prueba de hipótesis de prueba Z y t de Student para una y dos muestras: <a href="https://drive.google.com/file/d/1GSFtCNIKCjQGVlJ30PHOkJyaBQ2bqLU_/view?usp=drive_link">Tarea 1</a>.
+Algunos ejercicios de probabilidad Z, prueba de hipótesis de prueba Z y t de Student para una y dos muestras: <a href="https://drive.google.com/file/d/1GSFtCNIKCjQGVlJ30PHOkJyaBQ2bqLU_/view?usp=drive_link">Tarea 1</a>.
 </li>
 
 
