@@ -2,6 +2,8 @@
 <h1 align="center">Diplomado de Estadística Práctica para el Análisis de Datos</h1>
 </div>
 
+<center><img src="https://github.com/IsaiPB/Diplomado_Estadistica/blob/main/10_Diplomado_Estadistica_practica_page-0001.jpg"></center>
+
 <div align="center">Este repositorio incluye mis trabajos del <strong>Diplomado de Estadística Práctica para el Análisis de Datos</strong>, donde aprendí a aplicar métodos estadísticos para resolver problemas reales.
 Utilicé softwares como <strong>SPSS, Minitab, Statgraphics y R Commander</strong> para realizar análisis y generar reportes.</div>
 
