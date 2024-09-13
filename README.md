@@ -25,3 +25,6 @@ Ejercicios prueba t de Student para dos muestras pareadas: <a href="https://driv
 <li>
 Ejercicios de ANOVA. Diseño completamente al Azar (DCA): <a href="https://drive.google.com/file/d/1XbwiUBD2fz8L3NrXtw_LguM-iqQkYYqx/view?usp=drive_link">Tarea 1</a>.
 </li>
+<li>
+Ejercicios de ANOVA. Diseño de Bloques al Azar Completo (DBAC), Diseño de Cuadro latino (DCL) y Diseño de Cuadro Grecolatino (DCGL): <a href="https://drive.google.com/file/d/1ZpbYrXR_rlc1d9-KS-78GqtUhgnTRw4Q/view?usp=drive_link">Tarea 2</a>.
+</li>
