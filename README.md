@@ -22,3 +22,6 @@ Ejercicios prueba t de Student para dos muestras pareadas: <a href="https://driv
 </li>
 
 ## Diseño de experimentos (DOE)
+<li>
+Ejercicios de ANOVA. Diseño completamente al Azar (DCA): <a href="https://drive.google.com/file/d/1XbwiUBD2fz8L3NrXtw_LguM-iqQkYYqx/view?usp=drive_link">Tarea 1</a>.
+</li>
