@@ -31,3 +31,10 @@ Ejercicios de ANOVA. Diseño de Bloques al Azar Completo (DBAC), Diseño de Cuad
 <li>
 Ejercicios de ANOVA. Diseño factorial: <a href="https://drive.google.com/file/d/1anVp5pRb1hIwRiWG7m8SOYFMbtm3u18Y/view?usp=drive_link">Tarea 3</a>.
 </li>
+<li>
+Ejercicios de Diseños 2<sup>k</sup> y 3<sup>k</sup>: <a href="https://drive.google.com/file/d/1fcO9erP_7kRZEanG1G_MCHJATE-iymNF/view?usp=drive_link">Tarea 4</a>.
+</li>
+<li>
+Ejercicios de Diseños 3<sup>k</sup> y Diseños factoriales fraccionados 2<sup>k-1</sup>: <a href="https://drive.google.com/file/d/1feA8a0alvaMr-qoaL8-85bOOOhxNBETx/view?usp=drive_link">Tarea 5</a>.
+</li>
+
