@@ -37,4 +37,6 @@ Ejercicios de Diseños 2<sup>k</sup> y 3<sup>k</sup>: <a href="https://drive.goo
 <li>
 Ejercicios de Diseños 3<sup>k</sup> y Diseños factoriales fraccionados 2<sup>k-1</sup>: <a href="https://drive.google.com/file/d/1feA8a0alvaMr-qoaL8-85bOOOhxNBETx/view?usp=drive_link">Tarea 5</a>.
 </li>
+Video interactivo de superficie de respuesta: <a href="https://drive.google.com/file/d/15Zl2N9LSI6-iQVqlmmnIPK784cuS2TPh/view?usp=drive_link">Ver</a>.
+</li>
 
