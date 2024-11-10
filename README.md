@@ -41,3 +41,35 @@ Ejercicios de Diseños 3<sup>k</sup> y Diseños factoriales fraccionados 2<sup>k
 Video interactivo de superficie de respuesta: <a href="https://drive.google.com/file/d/15Zl2N9LSI6-iQVqlmmnIPK784cuS2TPh/view?usp=drive_link">Ver</a>.
 </li>
 
+## Control Estadístico de calidad 
+<li>
+Diagrama de Ishikawa (causa-efecto): <a href="https://drive.google.com/file/d/1LuWVZ1Bp47lmxKs7-uOAqOgXsWLgyt9O/view?usp=sharing">Actividad 3.2.2</a>.
+</li>
+<li>
+Diagrama de Pareto: <a href="https://drive.google.com/file/d/1Ou5Wfwsc47Ky2XAtRSuTLZvTlqY_e9NT/view?usp=sharing">Actividad 3.2.3</a>.
+</li>
+<li>
+Histograma y Diagramas de dispersión: <a href="https://drive.google.com/file/d/1Q1xB0Om1USQrQ4pu6P0iFWICkVOgDmDM/view?usp=sharing">Actividad 3.2.6</a>.
+</li>
+<li>
+Cartas de control de medias basadas en rangos: <a href="https://drive.google.com/file/d/1RziUlpN-GuqQVXojUBeGZp3dRMFSL51L/view?usp=sharing">Actividad 3.3.1</a>.
+</li>
+<li>
+Diagramas de control para mediciones individuales: <a href="https://drive.google.com/file/d/1U0mW-PJ14t4Uh5r90BUKRm6N4saW9rAr/view?usp=sharing">Actividad 3.3.2</a>.
+</li>
+<li>
+Cartas de control por atributos (n y np): <a href="https://drive.google.com/file/d/1VkdYXscgLkr2RbFAXRTyScbZ0WJeIb0o/view?usp=sharing">Actividad 3.4.1</a>.
+</li>
+<li>
+Cartas de control (c) del número total de defectos y cartas de control (u) del número promedio de defectos por unidad: <a href="https://drive.google.com/file/d/1ea6_Njagc1pIsfBhGRmrfHpIH3jepUGz/view?usp=sharing">Actividad 3.4.2</a>.
+</li>
+<li>
+Control estadístico de procesos: <a href="https://drive.google.com/file/d/1i06iwCxjTMJ0Lbg2EMP_TUNPQldut-T8/view?usp=sharing">Actividad 3.5.1</a>.
+</li>
+<li>
+Ejercicios finales de control de calidad: <a href="https://drive.google.com/file/d/1dIM8eytBEezVnDp5EE6UcUOgZRzfnHmg/view?usp=sharing">Actividad Integradora</a>.
+</li>
+
+
+
+
